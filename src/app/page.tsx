@@ -1,8 +1,8 @@
 import React from 'react'
-import Hero from '../Components/Hero'
-import Aboutus from '../Components/Aboutus'
-import Footer from '@/Components/Footer'
-import Contactus from '@/Components/Contactus'
+import Hero from '../components/Hero'
+import Aboutus from '../components/Aboutus'
+import Footer from '@/components/Footer'
+import Contactus from '@/components/Contactus'
 
 const page = () => {
   return (
